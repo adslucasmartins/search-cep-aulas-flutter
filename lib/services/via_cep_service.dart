@@ -1,5 +1,7 @@
 import 'package:http/http.dart' as http;
-import 'package:search_cep/models/result_cep.dart';
+
+
+import '../models/result_cep.dart';
 
 class ViaCepService {
   static Future<ResultCep> fetchCep({String cep}) async {
