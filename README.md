@@ -16,7 +16,7 @@ Tutorial de criação deste app: http://bit.ly/2kcGFQh
 
 ## Desafios
 
--OK! Criar e usar temas Light e Dart (para saber mais sobre temas [clique aqui](https://flutter.dev/docs/cookbook/design/themes), e se você quiser usar um editor de temas [clique aqui](https://rxlabz.github.io/panache/#/))
+OK! Criar e usar temas Light e Dart (para saber mais sobre temas [clique aqui](https://flutter.dev/docs/cookbook/design/themes), e se você quiser usar um editor de temas [clique aqui](https://rxlabz.github.io/panache/#/))
 
 OK! Criar um IconButton na AppBar para alternar entre os temas (dica: use o [plugin dynamic_theme](https://pub.dev/packages/dynamic_theme))
 
